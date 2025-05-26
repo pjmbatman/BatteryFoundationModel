@@ -24,6 +24,5 @@ This repository contains the code for the LiPM model introduced in our paper tit
 - **Documentation**: Usage instructions and necessary details to understand the model architecture.
 
 ## Future Updates
-Please note that the following components will be made available upon acceptance of the paper:
 - **Data Processing Code**: Scripts and notebooks for preprocessing the datasets used in our experiments.
 - **Training Code**: Code for training the LiPM model on the provided datasets.
