@@ -93,4 +93,4 @@ The preprocess code of each dataset can be found in [Battery-Data](https://githu
 If you have any question about the code or the paper, feel free to contact me through [email](mailto:jrlee@zju.edu.cn).
 
 ## Future Updates
-**More Upcoming Features and Improvements will be available in the latest [LiPM](hitps://github.com/JuRenGithub/LiPM) repository.**
+**More Upcoming Features and Improvements will be available in the latest [LiPM](https://github.com/JuRenGithub/LiPM) repository.**
